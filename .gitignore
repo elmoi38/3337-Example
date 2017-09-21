@@ -1,0 +1,15 @@
+
+# ignore everything
+*
+
+
+!src/
+!src/**
+
+!WebContent/
+!WebContent/**
+
+
+!.gitignore
+!*.md
+
